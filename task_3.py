@@ -7,7 +7,7 @@ class MyString():
         self.value = str(value)
 
     """
-    Методы сравнения > >= < <= == для value
+    Методы сравнения >, >=, <, <=,gi == для value
     """
     def __eq__(self, other):
          return self.value == other.value
