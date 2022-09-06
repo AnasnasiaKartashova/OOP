@@ -55,6 +55,7 @@ print(person_1.name)
 print(person_1.surname)
 print(person_1.age)
 print()
+
 person_1.age += 2
 print(person_1.age)
 person_1.age += 1
